@@ -1,1 +1,2 @@
-Sample code
+# Display the output
+print("New Python File")
